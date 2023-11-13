@@ -20,7 +20,7 @@ $conn->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
         <h1>Armazenamento de Itens</h1>
         <nav>
             <ul style="list-style-type: none;">
-                <li><a href="form.php">Novo item</a></li>
+                <li><a href="form.html">Novo item</a></li>
             </ul>
         </nav>
     </header>
